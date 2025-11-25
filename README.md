@@ -14,7 +14,7 @@ A full-stack web application for managing consulting leads with AI-powered quali
 **GitHub:** 
 - https://github.com/DerrickXu0528/CRM-CaseStudy-Backend
 - https://github.com/DerrickXu0528/CRM-CaseStudy-Frontend
-- 
+
 ## 🎯 Features
 
 - **CSV Upload**: Import leads from CSV files
