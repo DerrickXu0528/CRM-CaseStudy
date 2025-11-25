@@ -36,16 +36,16 @@ A full-stack web application for managing consulting leads with AI-powered quali
 ### Architecture Diagram
 ```
 ┌─────────────┐         ┌──────────────┐         ┌─────────────┐
-│   Frontend  │────────>  │   Backend    │────────>  │   Database       │
-│   (Vercel)  │  HTTP        │   (Render)   │  SQL         │   (SQLite)       │
+│   Frontend  │────────>│   Backend    │────────>│   Database  │
+│   (Vercel)  │  HTTP   │   (Render)   │  SQL    │   (SQLite)  │
 └─────────────┘         └──────────────┘         └─────────────┘
-                                      │
-                                      │ API Call
-                                      ▼
-                             ┌──────────────┐
-                             │  Claude API       │
-                             │  (Anthropic)      │
-                             └──────────────┘
+								│
+								│ API Call
+								▼
+						┌──────────────┐
+						│  Claude API  │
+						│  (Anthropic) │
+						└──────────────┘
 ```
 
 ## 🚀 Setup Instructions
@@ -54,7 +54,7 @@ A full-stack web application for managing consulting leads with AI-powered quali
 
 - Python 3.11 or higher
 - Git
-- Anthropic API key ([...](https://console.anthropic.com/))
+- Anthropic API key ([Generate Claude API Key Here](https://console.anthropic.com/))
 
 ### Local Development Setup
 
