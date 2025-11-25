@@ -2,6 +2,19 @@
 
 A full-stack web application for managing consulting leads with AI-powered quality scoring using Claude API.
 
+
+## 🎬 Demo
+
+**Live Demo:**
+- Frontend: https://crm-case-study-frontend.vercel.app/
+- API Docs: https://crm-casestudy.onrender.com/docs
+
+**Demo Video:** https://1drv.ms/v/c/fc5de19042686150/IQCPib9SKMlSQJu0k-IlIm7kAeetvfE7jmFQju7_Qu0hbS4?e=TcLbdT
+
+**GitHub:** 
+- https://github.com/DerrickXu0528/CRM-CaseStudy-Backend
+- https://github.com/DerrickXu0528/CRM-CaseStudy-Frontend
+- 
 ## 🎯 Features
 
 - **CSV Upload**: Import leads from CSV files
@@ -186,18 +199,6 @@ Returns:
 - **Score**: 0-100 (quality rating)
 - **Justification**: 2-3 sentence explanation
 - **Next Action**: Specific recommended step
-
-## 🎬 Demo
-
-**Live Demo:**
-- Frontend: https://crm-case-study-frontend.vercel.app/
-- API Docs: https://crm-casestudy.onrender.com/docs
-
-**Demo Video:** https://1drv.ms/v/c/fc5de19042686150/IQCPib9SKMlSQJu0k-IlIm7kAeetvfE7jmFQju7_Qu0hbS4?e=TcLbdT
-
-**GitHub:** 
-- https://github.com/DerrickXu0528/CRM-CaseStudy-Backend
-- https://github.com/DerrickXu0528/CRM-CaseStudy-Frontend
 
 ## 📊 Cost Breakdown
 
